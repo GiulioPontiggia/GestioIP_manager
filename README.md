@@ -20,7 +20,7 @@ Replace your_api_key_here with your actual API key for GestioIP.
 
 ## Usage
 Run the script by executing:  
-python gestioip_script.py  
+python gestioip_manager.py  
 
 The script presents a Quick Menu with options to input an IP address, access the Full Menu, or exit.  
 The Full Menu provides additional functionalities, including getting network information, changing network site of a single network or a whole site, and listing networks of a site.
